@@ -1,0 +1,231 @@
+#container{
+	min-height:100%;
+position:relative;
+min-width:100%;}
+
+body{
+background:url('background3.jpg');
+height:5000px;
+	
+}
+body,html{
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.opacity{
+	width:1200px;
+	height:950px;
+	
+	margin-left:auto;
+	margin-right:auto;
+	-moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	position:relative;
+	z-index:3;
+	
+	border-radius:25px;
+background:white;
+
+}
+
+#subtitle{
+	font-family: 'Kalam', cursive;
+	font-size:25px;
+    color:White; 
+	text-align:center;
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+	position:relative;
+	z-index:3;
+
+	
+}
+#top{
+	background-image:url('background2.jpg');
+	background-position:center;
+border-radius:25px;
+	Text-align:center;
+	width:1400px;
+    height:400px;
+	left:50px;
+    position:relative;
+	z-index:1;
+-moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    }
+	
+h1{
+	text-align:center;
+	font-family: 'Kalam', cursive;
+padding-top:20px;
+	color:white; 
+	font-size:30px;
+	margin-bottom:15px;
+	}
+h2{
+	text-align:center;
+	Font-size:75pt;
+	color:white;
+font-family: 'Bebas Neue', cursive;
+	margin-top:5px;
+	margin-bottom:0px;
+	position:relative; 
+	z-index: 1;
+
+	}
+nav{
+background: rgb(55,52,141);
+background: linear-gradient(0deg, rgba(55,52,141,1) 33%, rgba(55,52,141,0) 100%);
+	text-align:center;
+	margin-left: auto; 
+	margin-right:auto;
+	border-radius:10px;
+    height:100px;
+	margin-bottom:75px;
+	margin-top:-50px;
+	position:relative;
+z-index:3;
+top:50px;
+	}
+
+a{
+	color:white; 
+	text-decoration:none;
+	text-align:center;
+	margin-left:25px;
+	margin-right:25px;
+position:relative;
+z-index:3;
+top:20px;
+	border-radius:10px;
+	text-align:center;
+	font-size:50px;
+	padding:5px;
+font-family: 'Bebas Neue', cursive;}
+a:hover {
+	color:black;
+ padding-left:5px;
+ padding-right:5px;
+  border-radius: 10px;
+  animation-name: example;
+  animation-duration: 0.50s;
+  border-left: 8px solid gray;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  background:white;
+	}
+
+
+
+
+
+#tag{font-size:25px; 
+	
+	color:black;
+	font-family: 'Josefin Sans', sans-serif;
+	position:relative;
+	z-index:3;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	width:900px;
+	display:block;
+
+}
+
+.centre {
+	border:5px solid;
+	border-color:black;
+        display: block;
+	margin-right:50px;
+	margin-top:50px;
+	float:right;
+    }
+.quote {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	z-index:3;
+	top:50px;
+	font-size:35px; 
+	text-align:center;
+	color:black;
+	font-family: 'Josefin Sans', sans-serif;
+
+	width:900px;
+	}
+
+#detail{
+color:black; 
+font-family: 'Josefin Sans', sans-serif;
+width:450px;
+text-align:left;
+display:block;
+margin-left:75px;
+font-size:18pt;
+float:left;
+
+}	
+#baseball
+{margin-left:15px;
+margin-right:15px;
+margin-bottom:7px;
+border-radius:5px;
+}
+#batman{margin-bottom:7px;margin-left:25px;border-radius:5px;}
+#sing{margin-bottom:7px;border-radius:5px;}
+
+
+#photo{margin-left: 20px;border-radius:5px;
+}
+#art{margin-left:45px;border-radius:5px;}
+#photo{margin-left:20px;border-radius:5px;}
+#draw{margin-left:20px;border-radius:5px;}
+#wall{margin-left:20px;border-radius:5px;}
+
+#logo{background-color:white; 
+border:5px solid white; 
+border-radius:50px;
+float:left;
+position:relative;
+z-index:3;
+top:10px;
+left:10px;
+}
+
+
+
+footer{
+	height:75px;
+	background:url("background2.jpg");
+	Background-position:center;
+	width:110%;
+	padding-bottom:50px;
+	position:relative;
+	margin-top:20px;
+	bottom:0;
+	left:-10px;
+	
+}
+
+
+
+
+
+.fulladdress{
+	color:white;
+font-family: 'Josefin Sans', sans-serif;
+text-align: left;
+position:relative;
+z-index:3;
+bottom:0;
+margin-left:20px;
+margin-top:40px;
+top:40px;
+left:15px;
+}

@@ -1,0 +1,26 @@
+.container{ display: grid;
+  grid-template-columns: 350px 350px 350px ;
+  grid-gap: 30px;
+  font-family: 'Lato';
+  text-align: center;
+  font-size: 1.4em;
+  width:1350px;
+  margin-right:auto;
+  margin-left:auto;
+
+  background-color:gray;
+  height:2000px;
+  }
+
+
+.city, .palms, .hawk3, .mountains{
+	 padding-left: 25px;
+}
+.hum, .hawk1, .card{
+padding-left:50px;}
+
+
+.train, .hawk4, .hawk2, .vulture{
+	padding-left:55px;
+}
+.owl{padding-left:60px;}	
